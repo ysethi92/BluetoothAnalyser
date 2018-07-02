@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BluetoothAnalyser</string>
+    <string name="bluetooth_devices"><i><u>Bluetooth Devices</u></i></string>
+</resources>
